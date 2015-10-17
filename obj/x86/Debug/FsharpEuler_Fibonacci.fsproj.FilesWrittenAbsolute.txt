@@ -1,0 +1,5 @@
+/Users/admin/Projects/F-Sharp/FsharpEuler_Fibonacci/FsharpEuler_Fibonacci/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Users/admin/Projects/F-Sharp/FsharpEuler_Fibonacci/FsharpEuler_Fibonacci/bin/Debug/FsharpEuler_Fibonacci.exe.mdb
+/Users/admin/Projects/F-Sharp/FsharpEuler_Fibonacci/FsharpEuler_Fibonacci/bin/Debug/FsharpEuler_Fibonacci.exe
+/Users/admin/Projects/F-Sharp/FsharpEuler_Fibonacci/FsharpEuler_Fibonacci/obj/x86/Debug/FsharpEuler_Fibonacci.exe
+/Users/admin/Projects/F-Sharp/FsharpEuler_Fibonacci/FsharpEuler_Fibonacci/obj/x86/Debug/FsharpEuler_Fibonacci.exe.mdb
